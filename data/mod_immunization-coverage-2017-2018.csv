@@ -1,4 +1,4 @@
-id,School_name,Enrolled_pop,DTP_coverage_rate,DTP_religious_exemption_rate,MMR_coverage_rate,MMR_religious_exemption_rate
+id,schoolName,enrolledPop,DTPcoverage,DTPreligousExempt,MMRcoverage,MMRreligousExempt
 147,DA VINCI SCHOOL ,34,55.9,44.1,55.9,44.1
 15,ALPHA ALTERNATIVE JUNIOR SCHOOL ,36,69.4,27.8,69.4,27.8
 739,THE GROVE COMMUNITY SCHOOL ,58,75.9,24.1,75.9,24.1
