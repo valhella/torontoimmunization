@@ -1,4 +1,4 @@
-id,School Name,,Enrolled population,DTP coverage rate (%),DTP Religious exemption rate (%),MMR coverage rate (%),MMR Religious exemption rate (%)
+id,School_name,,Enrolled_pop,DTP_coverage_rate,DTP_religious_exemption_rate,MMR_coverage_rate,MMR_religious_exemption_rate
 147,DA VINCI SCHOOL ,,34,55.9,44.1,55.9,44.1
 15,ALPHA ALTERNATIVE JUNIOR SCHOOL ,,36,69.4,27.8,69.4,27.8
 739,THE GROVE COMMUNITY SCHOOL ,,58,75.9,24.1,75.9,24.1
@@ -492,7 +492,7 @@ id,School Name,,Enrolled population,DTP coverage rate (%),DTP Religious exemptio
 108,CHAMINADE COLLEGE SCHOOL ,,922,92.7,1,98.2,1
 119,CHIEF DAN GEORGE PUBLIC SCHOOL ,,201,91,1,94,1
 150,DANFORTH GARDENS PUBLIC SCHOOL ,,313,92.3,1,92.3,1
-199,ÉCOLE ÉLÉMENTAIRE JEANNE-LAJOIE ,,201,90.5,1,93,1
+199,ECOLE ELEMENTAIRE JEANNE-LAJOIE ,,201,90.5,1,93,1
 218,EGLINTON JUNIOR PUBLIC SCHOOL ,,207,88.9,1,87,1
 286,GLENVIEW SENIOR PUBLIC SCHOOL ,,770,94.7,1,95.6,1
 316,HIGHLAND JUNIOR HIGH SCHOOL ,,486,94.4,1,95.9,1
