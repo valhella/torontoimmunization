@@ -7,5 +7,5 @@
 ### [Data processing (nbviewer)](https://nbviewer.jupyter.org/github/valhella/torontoimmunization/blob/master/pythonparty.ipynb)
 
 
-### [Link to data folder](https://github.com/valhella/torontoimmunization/tree/master/data)
-### [Link to images folder](https://github.com/valhella/torontoimmunization/tree/master/images)
+#### [Link to data folder](https://github.com/valhella/torontoimmunization/tree/master/data)
+#### [Link to images folder](https://github.com/valhella/torontoimmunization/tree/master/images)
